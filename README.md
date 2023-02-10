@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valerie</h1>
 <h2 align="center">FrontEnd Developer, React JS</h2> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PetrovaValerie&label=Profile%20views&color=ff69b4&style=flat" alt="VelPetrova" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PetrovaValerie&label=Profile%20views&color=ff69b4&style=flat" alt="VelPetrova"/> </p>
 ### Languages and technologies
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
