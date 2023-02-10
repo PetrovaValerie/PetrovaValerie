@@ -2,7 +2,7 @@
 <h2 align="center">FrontEnd Developer, React JS</h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PetrovaValerie&label=Profile%20views&color=ff69b4&style=flat" alt="VelPetrova"/> </p>
-### Languages and technologies
+<h3>Languages and technologies</h3>
 
 ![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
 ![Scss](https://img.shields.io/badge/-scss-090909?style=for-the-badge&logo=sass)
@@ -12,7 +12,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 
-### My Contacts
+<h3>My Contacts</h3>
 [![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:valeriepetrova20@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://VelPetrova.t.me)
