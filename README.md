@@ -20,8 +20,8 @@
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/valeria-petrova-453603243/)
 
 
-<div align="center">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PetrovaValerie&show_icons=true&locale=en&layout=compact&theme=dracula" alt="VelPetrova" />
+<div>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PetrovaValerie&show_icons=true&locale=en&layout=compact&theme=radical" alt="VelPetrova" />
 </div>
 
 
