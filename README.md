@@ -22,13 +22,13 @@
 
 <h3>Pet Projects</h3>
 
--💻 My project №1 [Task Manager](https://github.com/PetrovaValerie/task-manager) 
+💻 My project №1 [Task Manager](https://github.com/PetrovaValerie/task-manager) 
 
--💻 My project №2 [SnakeGame](https://github.com/PetrovaValerie/SnakeGame)
+💻 My project №2 [SnakeGame](https://github.com/PetrovaValerie/SnakeGame)
 
--💻 My project №3 [Wildberries](https://github.com/PetrovaValerie/Wildberries)
+💻 My project №3 [Wildberries](https://github.com/PetrovaValerie/Wildberries)
 
--💻 My project №4 [Cinema_Project](https://github.com/PetrovaValerie/Cinema_Project)
+💻 My project №4 [Cinema_Project](https://github.com/PetrovaValerie/Cinema_Project)
 
 ![PetrovaValerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrovaValerie&show_icons=true&theme=radical&count_private=true)
 
