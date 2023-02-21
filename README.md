@@ -21,7 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/valeria-petrova-453603243/)
 
 <h3>Pet Projects</h3>
-💻 My project №1 [Task Manager](https://github.com/PetrovaValerie/TaskTracker_App)
+💻 My project №1 [Task Manager](https://github.com/PetrovaValerie/task-manager)
 
 ![PetrovaValerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrovaValerie&show_icons=true&theme=radical&count_private=true)
 
