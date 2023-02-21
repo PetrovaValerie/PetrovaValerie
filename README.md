@@ -26,6 +26,8 @@
 
 💻 My project №2 [SnakeGame](https://github.com/PetrovaValerie/SnakeGame)
 
+💻 My project №2 [Color Picker](https://github.com/PetrovaValerie/color-picker)
+
 💻 My project №3 [Wildberries](https://github.com/PetrovaValerie/Wildberries)
 
 💻 My project №4 [Cinema_Project](https://github.com/PetrovaValerie/Cinema_Project)
