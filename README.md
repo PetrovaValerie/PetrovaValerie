@@ -30,7 +30,7 @@
 
 💻 My project №4 [Wildberries](https://github.com/PetrovaValerie/Wildberries)
 
-💻 My project №5 [Cinema_Project](https://github.com/PetrovaValerie/Cinema_Project)
+💻 My project №5 [Cinema Project](https://github.com/PetrovaValerie/Cinema_Project)
 
 ![PetrovaValerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrovaValerie&show_icons=true&theme=radical&count_private=true)
 
