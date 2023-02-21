@@ -22,6 +22,8 @@
 
 <h3>Pet Projects</h3>
 💻 My project №1 [Task Manager](https://github.com/PetrovaValerie/task-manager)
+
+
 - 👨‍💻My project №2 [Brain Games WEB](https://github.com/LarendsD/brain-games-web)
 
 ![PetrovaValerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrovaValerie&show_icons=true&theme=radical&count_private=true)
