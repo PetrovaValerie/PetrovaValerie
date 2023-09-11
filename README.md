@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valerie</h1>
-<h2 align="center">FrontEnd Developer, React JS</h2> 
+<h2 align="center">Front-end Developer, React JS</h2> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PetrovaValerie&label=Profile%20views&color=ff69b4&style=flat" alt="VelPetrova"/> </p>
 <h3>Languages and technologies</h3>
