@@ -34,8 +34,6 @@
 
 💻 My project №6 [Cinema Project](https://github.com/PetrovaValerie/Cinema_Project)
 
-![PetrovaValerie's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrovaValerie&show_icons=true&theme=radical&count_private=true)
-
 <div>
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=PetrovaValerie&show_icons=true&locale=en&layout=compact&theme=radical" alt="VelPetrova" />
 </div>
