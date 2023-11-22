@@ -12,14 +12,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 
-<h3>My Contacts</h3>
-
-[![Gmail](https://img.shields.io/badge/-gmail-090909?style=for-the-badge&logo=gmail)](mailto:valeriepetrova20@gmail.com)
-
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://VelPetrova.t.me)
-
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/valeriepetrova/)
-
 <h3>Pet Projects</h3>
 
 💻 My project №1 [Task Manager](https://github.com/PetrovaValerie/task-manager) 
